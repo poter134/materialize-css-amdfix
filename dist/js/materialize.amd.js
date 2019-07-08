@@ -1767,7 +1767,7 @@ define("collapsible", ["jquery"], function(){});
             hideDropdown();
             $(document).unbind('click.'+ activates.attr('id'));
           });
-        }, 0);
+        }, 150);
       }
 
       function hideDropdown() {
