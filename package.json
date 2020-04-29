@@ -59,7 +59,7 @@
   },
   "dependencies": {
     "hammerjs": "^2.0.4",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.0",
     "node-archiver": "^0.3.0"
   },
   "description": "Builds Materialize distribution packages",
@@ -86,7 +86,7 @@
     "grunt-text-replace": "^0.4.0",
     "jasmine": "^2.3.2",
     "jasmine-jquery": "^2.1.1",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.0",
     "node-sass": "^3.4.2",
     "phantomjs": "^1.9.18"
   },
